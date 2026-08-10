@@ -9,7 +9,7 @@ Este projeto propõe um sistema centralizado para melhorar a experiência dos pa
 
 ---
 
-🎯 ##Objetivo da Atividade
+## Objetivo da Atividade
 Atuar como engenheira de requisitos, analisando o documento de elicitação fornecido e produzindo artefatos de especificação consistentes.
 A IA generativa foi utilizada como apoio para:
 
