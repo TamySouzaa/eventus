@@ -3,7 +3,7 @@ Projeto de especificação de requisitos para o sistema de gerenciamento de even
 
 ---
 
-📌 ##Contexto
+📌 ## Contexto
 A empresa Eventus organiza eventos e atualmente utiliza formulários e planilhas para inscrições, o que dificulta o controle de vagas, pagamentos, cancelamentos e emissão de certificados.
 Este projeto propõe um sistema centralizado para melhorar a experiência dos participantes e dar maior controle aos organizadores.
 
