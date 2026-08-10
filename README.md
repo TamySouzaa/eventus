@@ -68,3 +68,37 @@ Sugestões modificadas: casos de uso simplificados para evitar redundância.
 Sugestões descartadas: diagramas UML complexos, não necessários para o escopo atual.
 
 Justificativa dos artefatos escolhidos: garantem clareza, objetividade e testabilidade dos requisitos, representando bem as necessidades dos stakeholders.
+
+---
+
+## Como a IA apoiou as etapas da atividade
+- **Análise Inicial**: Processou o documento de elicitação e ajudou a classificar requisitos funcionais, não funcionais, regras de negócio e ambiguidades.  
+- **Estratégia de Artefatos**: Sugeriu histórias de usuário como artefato principal, complementadas por casos de uso e critérios de aceitação.  
+- **Elaboração de Histórias de Usuário**: Estruturou as US no formato “Como [ator], quero [ação], para que [benefício]”.  
+- **Prototipação**: Gerou descrições textuais de telas (wireframes) para apoiar a visualização dos eventos.  
+- **Rastreabilidade e Validação**: Indicou como criar uma matriz de rastreabilidade cruzando requisitos com artefatos.
+
+---
+
+## Sugestões Aceitas
+- Uso de histórias de usuário com critérios de aceitação.  
+- Estrutura simplificada de casos de uso.  
+
+---
+
+## Sugestões Modificadas
+- Casos de uso foram adaptados para evitar redundância.
+
+---
+
+## Sugestões Descartadas
+- Diagramas UML complexos, considerados desnecessários para o escopo atual.
+
+---
+
+## Justificativa dos Artefatos Escolhidos
+O sistema Eventus possui múltiplos perfis de acesso (Participante, Organizador, Financeiro, Palestrante).  
+- **Histórias de Usuário**: traduzem a voz do usuário e facilitam entendimento.  
+- **Casos de Uso**: detalham fluxos críticos como inscrição, cancelamento e emissão de certificados.  
+- **Critérios de Aceitação**: tornam os requisitos testáveis e objetivos.  
+
