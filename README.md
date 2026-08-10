@@ -1,15 +1,15 @@
-🎟️ Eventus — Sistema de Gestão de Eventos
+🎟️ ##Eventus — Sistema de Gestão de Eventos
 Projeto de especificação de requisitos para o sistema de gerenciamento de eventos corporativos, congressos e workshops da empresa Eventus.
 
 ---
 
-📌 Contexto
+📌 ##Contexto
 A empresa Eventus organiza eventos e atualmente utiliza formulários e planilhas para inscrições, o que dificulta o controle de vagas, pagamentos, cancelamentos e emissão de certificados.
 Este projeto propõe um sistema centralizado para melhorar a experiência dos participantes e dar maior controle aos organizadores.
 
 ---
 
-🎯 Objetivo da Atividade
+🎯 ##Objetivo da Atividade
 Atuar como engenheira de requisitos, analisando o documento de elicitação fornecido e produzindo artefatos de especificação consistentes.
 A IA generativa foi utilizada como apoio para:
 
@@ -23,7 +23,7 @@ Revisão e ajustes para reduzir ambiguidades.
 
 ---
 
-📂 Artefatos Produzidos
+📂 ##Artefatos Produzidos
 Os artefatos estão organizados na pasta especificacao/:
 
 Histórias de Usuário
@@ -34,7 +34,7 @@ Critérios de Aceitação
 
 ---
 
-✅ Exemplos
+✅ ##Exemplos
 História de Usuário
 Como participante, quero cancelar minha inscrição sem precisar entrar em contato com a organização,
 para que eu tenha autonomia e praticidade.
@@ -58,7 +58,7 @@ O certificado deve ser gerado em formato PDF.
 
 ---
 
-🤖 Reflexão sobre o Uso da IA
+🤖 ##Reflexão sobre o Uso da IA
 Ferramenta utilizada: Microsoft Copilot.
 
 Sugestões aceitas: estrutura de histórias de usuário e critérios de aceitação.
