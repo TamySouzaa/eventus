@@ -39,8 +39,6 @@ História de Usuário
 Como participante, quero cancelar minha inscrição sem precisar entrar em contato com a organização,
 para que eu tenha autonomia e praticidade.
 
----
-
 Caso de Uso
 Emitir Certificado
 
@@ -50,7 +48,6 @@ Fluxo principal: acessar área de certificados → selecionar evento concluído 
 
 Alternativa: presença não confirmada → sistema bloqueia emissão.
 
----
 
 Critérios de Aceitação
 O certificado só pode ser emitido após o evento ser concluído.
