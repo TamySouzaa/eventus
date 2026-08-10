@@ -1,4 +1,4 @@
-🎟️ ##Eventus — Sistema de Gestão de Eventos
+## Eventus — Sistema de Gestão de Eventos
 Projeto de especificação de requisitos para o sistema de gerenciamento de eventos corporativos, congressos e workshops da empresa Eventus.
 
 ---
